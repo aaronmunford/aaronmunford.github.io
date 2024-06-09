@@ -15,9 +15,11 @@ In my free time, I enjoy wrestling, skateboarding, and film photography.
 
 News
 ------
-**June 3-7, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attended [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2024/) at the NYU Center for Data Science 
+**June 3-7, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Attended [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2024/) at the NYU Center for Data Science 
 
-**September 1, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Started BA in [Data and Computer Science at NYU](https://cds.nyu.edu/)
+**September 1, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Started BA in [Data and Computer Science at NYU](https://cds.nyu.edu/)
 
 
 
