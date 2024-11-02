@@ -5,9 +5,9 @@ author_profile: true
 ---
 ## [Spotify Music Analysis](https://github.com/aaronmunford/Spotify-Music-Analysis)
 <div style="display: flex; justify-content: space-around;">
-  <img src="/images/Component Breakdown.png" alt="Component Breakdown" width="300" height="200">
-  <img src="/images/Eigenvalue PCA.png" alt="Eigenvalue PCA" width="300" height="200">
   <img src="/images/Loudness and Energy.png" alt="Loudness and Energy" width="300" height="200">
+  <img src="/images/Eigenvalue PCA.png" alt="Eigenvalue PCA" width="300" height="200">
+  <img src="/images/Component Breakdown.png" alt="Component Breakdown" width="300" height="200">
 </div>
 
 **Spotify Music Analysis** is a data-driven project that leverages regression models, principal component analysis, and statistical tests to uncover insights into what makes a song popular and how genres differ based on audio features.
