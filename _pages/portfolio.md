@@ -1,3 +1,9 @@
+---
+title: "Projects"
+permalink: /portfolio/
+author_profile: true
+---
+
 ## [Spotify Music Analysis](https://github.com/aaronmunford/Spotify-Music-Analysis)
 <div style="display: flex; justify-content: space-around;">
   <img src="/images/Component Breakdown.png" alt="Component Breakdown" width="300" height="200">
