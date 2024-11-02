@@ -18,7 +18,7 @@ In my free time, I enjoy wrestling, skateboarding, and film photography.
 News
 ------
 **October, 2024**  
-Began Data Science Internship at [Neue Urban](https://www.neueurban.com/), a real estate investment firm focused on leveraging data to identify and support investment opportunities. 
+Started Data Science Internship at [Neue Urban](https://www.neueurban.com/).
 
 **July, 2024**  
 Built a [Spotify Music Analysis](https://github.com/aaronmunford/Spotify-Music-Analysis) project analyzing Spotify’s dataset of 52,000 songs to explore how audio characteristics impact song popularity and uncover genre-based trends.
@@ -27,7 +27,7 @@ Built a [Spotify Music Analysis](https://github.com/aaronmunford/Spotify-Music-A
 <br>Attended [NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2024/) at the NYU Center for Data Science 
 
 **June-August, 2024**  
-Interned as an Information Technology Intern at the [Institute for Advanced Study](https://www.ias.edu/), providing technical support to scholars and refining IT troubleshooting skills.
+Started Information Technology Internship at the [Institute for Advanced Study](https://www.ias.edu/).
 
 **September 1, 2023**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Started BA in Data and Computer Science at the [Center for Data Science](https://cds.nyu.edu/) at NYU.
