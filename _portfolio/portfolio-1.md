@@ -1,16 +1,13 @@
----
-title: "Spotify Music Analytics: Predicting Popularity and Genre Trends"
-excerpt: "This project analyzes a dataset of 52,000 Spotify songs to uncover the factors that contribute to song popularity and the unique audio features that define different genres."
-collection: portfolio
----
-
 <div style="display: flex; justify-content: space-around;">
-  <img src="/images/image1.png" alt="Feature Distribution" width="300" height="200">
-  <img src="/images/image2.png" alt="PCA Biplot" width="300" height="200">
-  <img src="/images/image3.png" alt="Model Performance" width="300" height="200">
+  <img src="/images/Component Breakdown.png" alt="Component Breakdown" width="300" height="200">
+  <img src="/images/Eigenvalue PCA.png" alt="Eigenvalue PCA" width="300" height="200">
+  <img src="/images/Loudness and Energy.png" alt="Loudness and Energy" width="300" height="200">
 </div>
 
 **Spotify Music Analytics** is a data-driven project that leverages regression models, principal component analysis, and statistical tests to uncover insights into what makes a song popular and how genres differ based on audio features.
 
+By analyzing a dataset of over 52,000 songs, **Spotify Music Analytics** examines key audio features such as danceability, energy, and tempo, which significantly contribute to a song’s popularity. Using community detection algorithms and audio feature clustering, the project identifies genre-specific characteristics, making it possible to classify music by genre.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Powered by data preprocessing and machine learning techniques, this project provides a visual and statistical breakdown of what defines music popularity and genre. It demonstrates the use of dimensionality reduction to visualize audio feature patterns and regression analysis to predict popularity. 
+
+
