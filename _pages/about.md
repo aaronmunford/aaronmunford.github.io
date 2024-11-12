@@ -17,6 +17,12 @@ In my free time, I enjoy wrestling, skateboarding, and film photography.
 
 News
 ------
+**November 10, 2024**  
+Finalist in [J&J Talent 2.0 Hackathon](https://hackathon.cornell.edu/recruiting). Collaborated with team to develop HoneyBeeAI.
+
+**October, 2024**  
+Started Artificial Intelligence Student Researcher position under Professor & Investigative Journalist [Hilke Schellmann](https://www.hilkeschellmann.com/).
+
 **October, 2024**  
 Started Data Science Internship at [Neue Urban](https://www.neueurban.com/).
 
