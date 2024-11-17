@@ -3,6 +3,12 @@ title: "Projects"
 permalink: /portfolio/
 author_profile: true
 ---
+## [HoneyBeeAI](https://github.com/gokulnpc/Cornell-Hackathon)
+
+**HoneyBeeAI** is an innovative AI-powered platform designed to transform the recruitment process by integrating transparency, efficiency, and enhanced candidate engagement. Built with advanced AI agents and blockchain technology, HoneyBeeAI offers a fairer, data-driven experience for both recruiters and job seekers.
+
+
+
 ## [Spotify Music Analysis](https://github.com/aaronmunford/Spotify-Music-Analysis)
 <div style="display: flex; justify-content: space-around;">
   <img src="/images/Loudness and Energy.png" alt="Loudness and Energy" width="300" height="200">
