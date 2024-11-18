@@ -4,6 +4,11 @@ permalink: /portfolio/
 author_profile: true
 ---
 ## [HoneyBeeAI](https://github.com/gokulnpc/Cornell-Hackathon)
+<div style="display: flex; justify-content: space-around;">
+  <img src="/images/honeybee6.jpg" alt="honeybee" width="270" height="270">
+  <img src="/images/honeybee.jpg" alt="demo" width="270" height="270">
+  <img src="/images/honeybees.jpg" alt="demo2" width="394.2" height="270">
+</div>
 
 **HoneyBeeAI** is an innovative AI-powered platform designed to transform the recruitment process by integrating transparency, efficiency, and enhanced candidate engagement. Built with advanced AI agents and blockchain technology, HoneyBeeAI offers a fairer, data-driven experience for both recruiters and job seekers.
 
